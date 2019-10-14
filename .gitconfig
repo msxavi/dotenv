@@ -1,0 +1,21 @@
+[user]
+    name = Emerson Xavier
+    email = msxavii@gmail.com
+[alias]
+    ck = checkout
+    st = status
+    wc = whatchanged -p
+    b  = branch
+    pl = pull
+    ps = push
+    c = commit
+    a = add
+    m = merge
+    df = diff
+    rb = rebase
+[push]
+    default = simple
+[color]
+    ui = true
+[url "https://github.com"]
+	insteadOf = git://github.com
